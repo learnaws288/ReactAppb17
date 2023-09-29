@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To Ashok IT...!!
+          Welcome To IT School...!!
         </p>
         <a
           className="App-link"
-          href="https://ashokitech.com/"
+          href="https://flipkart.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
